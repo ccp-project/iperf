@@ -167,7 +167,6 @@ fi
 dnl ===================================================================
 dnl Check for compiler characteristics
 
-DAST_CHECK_BOOL
 
 AC_C_BIGENDIAN
 
